@@ -31,7 +31,7 @@ Border.prototype = function () {
             if (P_nColore >= 0) {
                 this.color = this.objPalette.getColor(P_nColore);
             } else {
-                this.color = this.objPalette.getColor(5) + " url(_img/background_loading.gif) repeat left top";
+                this.color = this.objPalette.getColor(5) + " url(img/background_loading.gif) repeat left top";
             }
             this.refresh = true;
         },
