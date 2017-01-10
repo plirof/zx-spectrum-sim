@@ -1,6 +1,6 @@
 @font-face {
     font-family: ZX Spectrum;
-    src: url('../_fonts/zxspectr.ttf');
+    src: url('../fonts/zxspectr.ttf');
 }
 html, body, div {
     margin: 0;
@@ -8,7 +8,7 @@ html, body, div {
     border: 0;
 }
 html {
-    background: #fff; /* url("../_img/background_loading.gif") repeat left top; */
+    background: #fff; /* url("../img/background_loading.gif") repeat left top; */
     font-family: "ZX Spectrum", monaco, "courier new", courier, monospace;
     font-size: 24px;
     line-height: 1.0;
