@@ -28,7 +28,7 @@ function inizializza() {
     zx.objBorder.setBorder(13);
     $.simulaInizioCaricamento(0, "KAIKO.it");
     zx.setBorder(1000, -1);
-    $.scriviPagina("Benvenuti nel mio sito internet!\ne un piacere avervi qui, anche\nse a dire la verita non ho ancora\navuto modo di preparare molto da farvi vedere! per cui vi dovrete accontentare suppongo...");
+    $.scriviPagina("Hello. This is a spectrum loading screen emulation. When you were loading a program on spectrum from a tape , the TV screen was like that. ");
     $.simulaTermineCaricamento(false);
 
 }
